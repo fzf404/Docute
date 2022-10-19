@@ -2,7 +2,7 @@
 
 > 基于 `Docute` 的文档生成器
 
-![Docute](https://cdn.jsdelivr.net/gh/fzf404/image/Docute/show.webp)
+![Docute](https://img.fzf404.art/Docute/show.webp)
 
 ## 使用
 
