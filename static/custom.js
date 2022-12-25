@@ -1,7 +1,7 @@
 const nav = [
   {
-    title: '首页',
-    link: '/',
+    title: 'Github',
+    link: 'https://github.com/fzf404/Docute/',
   },
 ]
 
@@ -26,14 +26,17 @@ fetch('./static/custom.json')
               sidebarWidth: '240px',
               sidebarBackground: '#1c1c1c',
               mainBackground: '#242424',
+              borderColor: '#454545',
               sidebarLinkActiveColor: 'var(--accent-color)',
             }
           : {
               pageBackground: '#efefef',
               headerBackground: '#dadada',
+              headerTextColor: '#ad4e00',
               sidebarWidth: '240px',
               sidebarBackground: '#e8e8e8',
-              mainBackground: '#f4f4f4',
+              mainBackground: '#f6f6f6',
+              borderColor: '#c4c4c4',
               inlineCodeBackground: '#dedede',
               sidebarLinkActiveColor: 'var(--accent-color)',
             }
